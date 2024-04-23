@@ -11284,6 +11284,7 @@ FE6DF43F23B3BD16 copy:cube_capture:encode_rgbm
 C2ED43E6CFC011B2 copy:flip_y
 D788F05279A9CB29 copy:point_sampler
 7096B56B7C65E99D copy_depth
+A964916E722753CE core/animation/boot
 0D4816DE1D4771F1 core/animation/lua/runtime/animationflowcallbacks
 405896B911013778 core/animation/lua/runtime/animationrequires
 B977E4F7E61F3C97 core/editor_slave/resources/level_resources/reflection_probe_diffuse_bake
@@ -11294,6 +11295,7 @@ A22B50E253CDEB51 core/editor_slave/units/material_shapes/default
 A600A457395FE66C core/editor_slave/units/preview/textures/checkerbox_55_percent_luminance
 B64401C1D0ED7B71 core/editor_slave/units/skydome/skydome
 3425CB597039DD69 core/entities/vector_fields/global_direction/global_direction
+C766DDD8A6875C02 core/fallback_resources/fallback_resources
 4BE37F8375611138 core/fallback_resources/missing_material
 3EFB957B37252438 core/fallback_resources/missing_particles
 89F7B44D92D2285E core/fallback_resources/missing_texture
